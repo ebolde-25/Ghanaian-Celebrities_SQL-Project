@@ -6,6 +6,8 @@
 ## Overview Dahboard:
 This dashboard offers a comprehensive snapshot of Ghana's top 30 celebrities across the music and film industries. It analyzes revenue generation, professional diversity, gender distribution, awards, and geographic representation.
 
+![Dashboard](https://github.com/ebolde-25/Power-BI-Projects/blob/069bb30fa389c4e76bee5eda9c0bd103640580a0/Image(s)/Dashboard_Image.PNG)
+
 ---
 
 ## 2. Data Structure
