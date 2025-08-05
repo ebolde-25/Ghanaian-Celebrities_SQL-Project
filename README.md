@@ -54,8 +54,8 @@ This report focuses on Ghana's film sector, showcasing movie revenues, genre pre
 - Total Movie Revenue: GH₵ 17M
 - Top-Grossing Movie: Somewhere in Africa (GH₵ 1.95M)
 - Genres by Revenue:
-Drama: GH₵ 7M
-Romantic Comedy: GH₵ 5M
+> - Drama: GH₵ 7M
+> - Romantic Comedy: GH₵ 5M
 - Languages: 84% of movie revenue comes from English-language films
 - Release Trends: Steady release with peak years in 2009 and 2019–2020
 - Top Earners in Film:
@@ -63,15 +63,13 @@ Romantic Comedy: GH₵ 5M
 - Yvonne Nelson (GH₵ 2.85M)
 - John Dumelo (GH₵ 2.52M)
 
+--- 
+
+## 🎵Music Industry Highlights 
+This report highlights the performance and profitability of Ghana's music industry, tracking top songs, languages, and earnings by artist.
 
 
-## 3. Key Insights
 
-### 🎵 Music Industry
-
-- **KiDi’s hit song “Touch It”** was the biggest moneymaker, pulling in GH₵18 million.
-- Songs in **English & Twi** dominate the top earners.
-- There’s been a noticeable rise in music releases and revenues since **2015**.
 
 ### 🎥 Film Industry
 
