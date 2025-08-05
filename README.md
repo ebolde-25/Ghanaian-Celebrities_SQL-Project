@@ -68,16 +68,30 @@ This report focuses on Ghana's film sector, showcasing movie revenues, genre pre
 ## 🎵Music Industry Highlights 
 This report highlights the performance and profitability of Ghana's music industry, tracking top songs, languages, and earnings by artist.
 
+![Dashboard](https://github.com/ebolde-25/Ghanaian-Celebrities_SQL-Project/blob/d3c517389e3856c8b83483cd67400dbe2abfea5c/Project_Visualisations/SQL-Celebrities_image3.png)
+
+### KPIs 
+- Song Revenue Generated
+- Song with most earnings
+- Male Song Count
+
+### Key Insights 
+- Total Song Revenue: GH₵ 88M
+- Top Profitable Song: Touch It – GH₵ 18M
+- Languages by Revenue:
+> - English/Patois: GH₵ 28.4M
+> - English: GH₵ 27.7M
+> - English & Twi: GH₵ 27.2M
+- Top Earning Artists:
+> - Shatta Wale (28%)
+> - Stonebwoy and King Promise (26% each)
+- Language Usage: Most songs are bilingual (English & Twi), making up 10 out of 21 songs
 
 
+### 🏆Awards & Recognition Highlights 
+This report breaks down awards distribution across professions, individuals, and gender, emphasizing top accolades and achievements.
 
-### 🎥 Film Industry
-
-- **Majid Michel’s “Somewhere in Africa”** topped the charts with GH₵1.95 million.
-- Genres like **Romantic Comedy and Drama** are the most popular.
-- Most blockbuster movies are produced in **English**.
-
-### 🏆 Awards & Recognition
+![Dashboard](https://github.com/ebolde-25/Ghanaian-Celebrities_SQL-Project/blob/d3c517389e3856c8b83483cd67400dbe2abfea5c/Project_Visualisations/SQL-Celebrities_image3.png)
 
 - **Sarkodie** stands out as the most decorated celebrity with **5 major awards**.
 - Men have received more awards overall, but women like Jackie Appiah and Efya shine too.
