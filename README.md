@@ -1,6 +1,6 @@
 
 # Ghanaian Celebrities Profile & Performance Analysis
-
+This is a group project to an insightful look into Ghana’s top entertainment figures from musicians to actors, and everything in between. This project explores the numbers behind the fame: revenue, awards, gender and even where these stars come from.
 
 ---
 
@@ -59,9 +59,9 @@ This report focuses on Ghana's film sector, showcasing movie revenues, genre pre
 - Languages: 84% of movie revenue comes from English-language films
 - Release Trends: Steady release with peak years in 2009 and 2019–2020
 - Top Earners in Film:
-- Joselyn Dumas (GH₵ 2.94M)
-- Yvonne Nelson (GH₵ 2.85M)
-- John Dumelo (GH₵ 2.52M)
+> - Joselyn Dumas (GH₵ 2.94M)
+> - Yvonne Nelson (GH₵ 2.85M)
+> - John Dumelo (GH₵ 2.52M)
 
 --- 
 
@@ -89,40 +89,38 @@ This report highlights the performance and profitability of Ghana's music indust
 
 
 ### 🏆Awards & Recognition Highlights 
-This report breaks down awards distribution across professions, individuals, and gender, emphasizing top accolades and achievements.
+This section highlights the stars who’ve brought home the most awards and the categories they dominate.
 
-![Dashboard](https://github.com/ebolde-25/Ghanaian-Celebrities_SQL-Project/blob/d3c517389e3856c8b83483cd67400dbe2abfea5c/Project_Visualisations/SQL-Celebrities_image3.png)
+![Dashboard](https://github.com/ebolde-25/Ghanaian-Celebrities_SQL-Project/blob/3646b9b4510805e4a0014459ef2ee7137fe58019/Project_Visualisations/SQL-Celebrities_image4.png)
 
-- **Sarkodie** stands out as the most decorated celebrity with **5 major awards**.
-- Men have received more awards overall, but women like Jackie Appiah and Efya shine too.
-- Musicians are the most frequently awarded group.
+### KPIs 
+- Top Awarded Category
+- Total Number of Awards
 
-### 🌍 Demographics
+### Key Insights 
+#### Who’s Winning?
+- Total Awards: 39 across both industries
+- Most Awarded Category: Artiste of the Year (9 wins)
+- By Profession:
+> - Musicians: 24 awards
+> - Actors: 15 awards
+- Top Winners:
+> - Sarkodie & Stonebwoy (3 awards each)
+- Most 'Artiste of the Year' Wins: Sarkodie and Stonebwoy (2 each)
+- Gender Split in Awards: 69% male winners, 31% female
 
-- Most celebrities are based in **Accra**.
-- There’s a gender gap: about **67% are male**, 33% female.
-- **Musician**, **Actor**, and **Producer** are the most common roles.
+--- 
 
-### 📅 Career Trends
+## 📅Career Trends
 
 - **Daddy Lumba** has been active the longest, starting in **1989**.
-- Many celebrities juggle **multiple roles**—like being an actor and a producer, or a musician and a brand ambassador.
+- Many celebrities juggle **multiple roles** like being an actor and a producer, or a musician and a brand ambassador.
 
 ---
 
-## 4. Tools & Visualizations
+# Summary
+This project uses SQL and Power BI to tell the story behind Ghana’s most successful celebrities.
+> **Tools used**: SQL for data queries (to extract and organize the data), Power BI to build interactive dashboard and visuals.
+> **Data Includes**: Revenue, songs, movies, awards, gender, roles, and locations
 
-We used:
-
-- **SQL** to extract and organize the data
-- **Power BI** to build interactive dashboards and visuals showing:
-  - Revenue breakdown by profession and language
-  - Award stats across gender and career fields
-  - Trends in song and movie releases
-  - Where celebrities are based geographically
-
----
-
-## 5. Conclusion
-
-This project paints a detailed, data-driven picture of Ghana’s entertainment scene. From revenue insights to award trends, we can see who’s making waves and how the industry is evolving. It’s a valuable resource for fans, analysts, and anyone curious about the stories behind Ghana’s biggest stars.
+This analysis shows that music leads the way in Ghana’s entertainment scene, with higher earnings and more awards than film. English and mixed-language songs bring in the most revenue and most celebrities are based in Accra. Male stars dominate in both numbers and recognition and many celebrities wear multiple hats from songwriting to business showing just how versatile they are.
