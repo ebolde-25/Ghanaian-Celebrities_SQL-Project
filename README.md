@@ -1,15 +1,10 @@
 
 # Ghanaian Celebrities Profile & Performance Analysis
 
-## 🎬 Project Summary
-
-**Title:** Ghanaian Celebrities Profile & Performance Analysis
-
 ---
 
-## 1. Project Overview
-
-This project dives into the lives and careers of Ghana’s most celebrated entertainers. By combining the power of SQL for data exploration and Power BI for visual storytelling, we explored who these celebrities are, what they do, how much they earn from music and movies, and the awards they’ve earned over the years.
+## Overview Dahboard:
+This dashboard offers a comprehensive snapshot of Ghana's top 30 celebrities across the music and film industries. It analyzes revenue generation, professional diversity, gender distribution, awards, and geographic representation.
 
 ---
 
