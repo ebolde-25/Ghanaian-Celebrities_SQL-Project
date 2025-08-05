@@ -16,7 +16,7 @@ To get a complete picture, we created five key tables:
 
 ---
 
-## 📊Overview Dahboard:
+## 📊Overview Dahboard
 This dashboard offers a comprehensive snapshot of Ghana's top 30 celebrities across the music and film industries. It analyzes revenue generation, professional diversity, gender distribution, awards, and geographic representation.
 
 ![Dashboard](https://github.com/ebolde-25/Ghanaian-Celebrities_SQL-Project/blob/b43c7706c264e5fd9f72b6119675fac7929dac89/Project_Visualisations/SQL-Celebrities_image1.png)
@@ -43,7 +43,27 @@ This dashboard offers a comprehensive snapshot of Ghana's top 30 celebrities acr
 ## 🎬Film Industry Highlights
 This report focuses on Ghana's film sector, showcasing movie revenues, genre preferences, language breakdown, and top performers.
 
-![Dashboard](https://github.com/ebolde-25/Ghanaian-Celebrities_SQL-Project/blob/b43c7706c264e5fd9f72b6119675fac7929dac89/Project_Visualisations/SQL-Celebrities_image1.png)
+![Dashboard](https://github.com/ebolde-25/Ghanaian-Celebrities_SQL-Project/blob/c5b9f8447e13732f08e1d74afbddc9835d63d5d6/Project_Visualisations/SQL-Celebrities_image2.png)
+
+### KPIs 
+- Total Movie Revenue
+- Total Drama Movies
+- Total English Movies
+
+### Key insights
+- Total Movie Revenue: GH₵ 17M
+- Top-Grossing Movie: Somewhere in Africa (GH₵ 1.95M)
+- Genres by Revenue:
+Drama: GH₵ 7M
+Romantic Comedy: GH₵ 5M
+- Languages: 84% of movie revenue comes from English-language films
+- Release Trends: Steady release with peak years in 2009 and 2019–2020
+- Top Earners in Film:
+- Joselyn Dumas (GH₵ 2.94M)
+- Yvonne Nelson (GH₵ 2.85M)
+- John Dumelo (GH₵ 2.52M)
+
+
 
 ## 3. Key Insights
 
